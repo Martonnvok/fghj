@@ -1,0 +1,47 @@
+header{
+    position: fixed;
+    bottom: 1px;
+    left: 1px;
+    width: 100%;
+    background-color: lightgreen;
+    text-align: center;
+}
+
+
+
+footer{
+    position: fixed;
+    bottom: 1px;
+    left: 1px;
+    width: 100%;
+    background-color: lightgreen;
+    text-align: center;
+}
+
+nav{
+    margin-top: 100px;
+    border: 2px solid dimgray;
+    position: absolute;
+    top: 110px;
+    right: 20px;
+}
+
+article{
+    padding-top: 70px;
+    border: 2px solid dimgray;
+}
+
+form{
+    padding: 20px;
+    position: fixed;
+    top: 50%;
+    width: 200px;
+    left: calc(50% - 100px) 
+}
+
+main{
+    position: relative;
+    padding-top: 100px;
+    width: 70%;
+}
+
